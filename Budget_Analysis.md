@@ -1,4 +1,4 @@
 # Budget Analysis
 
 ## Spending Categories Chart
-!(spending_categories.png)
+!(/spending_categories.png)
