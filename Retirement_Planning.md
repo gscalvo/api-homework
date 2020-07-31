@@ -22,6 +22,6 @@
 
 ## Retirement Analysis
 
-### Initial Investment of $20,000 with a 4% withdrawal rate 
+* A yearly amount of $6085 is required to satisfy the income needs, the 4% withdrawal rate of $(waiting on calculated number)
 
-### Initial Investment
+* With a 50% increase in the initial investment, the 4% withdrawal rate of $(waiting on calculated number) is enough to cover the yearly income of $6085
