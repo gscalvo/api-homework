@@ -25,3 +25,6 @@
 * A yearly amount of $6085 is required to satisfy the income needs, the 4% withdrawal rate of $866.53 is not enough
 
 * With a 50% increase in the initial investment, the 4% withdrawal rate of $1299.8 is enough to cover the yearly income of $6085
+
+* Portfolio Performance Overtime
+	* ![](portfolio_performance.png)
