@@ -10,21 +10,21 @@
 
 ## Expected Returns at 1 years (1-year because of computer crashes)
 
-* 90th percentile - 30.8%
-* 50th percentile - 19.51%
-* 10th percentile - 8.32%
+* 90th percentile - 31283.27%
+* 50th percentile - 18852.6%
+* 10th percentile - 11617.88%
 
 ## Expected Returns at 1 years with $20,000 Initial Investment (1-year because of computer crashes)
 
-* 90th percentile - $26160.46
-* 50th percentile - $23902.29
-* 10th percentile - $21663.34
+* 90th percentile - $6276654.35
+* 50th percentile - $3790519.95
+* 10th percentile - $2343576.02
 
 ## Retirement Analysis
 
-* A yearly amount of $6085 is required to satisfy the income needs, the 4% withdrawal rate of $866.53 is not enough
+* A yearly amount of $6085 is required to satisfy the income needs, the 4% withdrawal rate of $93743.0408 is enough
 
-* With a 50% increase in the initial investment, the 4% withdrawal rate of $1299.8 is enough to cover the yearly income of $6085
+* With a 50% increase in the initial investment, the 4% withdrawal rate of $140614.56 is enough to cover the yearly income of $6085
 
 * Portfolio Performance Overtime
 	* ![](portfolio_performance.png)
