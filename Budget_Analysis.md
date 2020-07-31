@@ -4,7 +4,7 @@
 ![](spending_categories.png)
 
 ## Spending Bar Chart
-![](spending_chart.png)
+![](spending_bar.png)
 
 ## Transaction Data
 
